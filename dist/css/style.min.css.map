@@ -1,0 +1,1 @@
+{"version":3,"sources":["_reset.scss"],"names":[],"mappings":"AAEA,KACI,6BAAsB,CAAtB,qBAAsB,CACtB,QAAS,CACT,SAAU,CACb,qBAGG,0BAAY,CAAZ,kBAAmB","file":"style.min.css","sourcesContent":["// Basic reset\r\n\r\nhtml {\r\n    box-sizing: border-box;\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\n*, *::after, *::before {\r\n    box-sizing: inherit;\r\n}"]}
